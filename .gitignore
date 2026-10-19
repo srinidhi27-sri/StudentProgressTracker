@@ -1,1 +1,10 @@
 *.class
+target/
+.idea/
+.vscode/
+*.log
+StudentProgressTracker/
+student-progress-tracker/database/student_progress_backup.db
+student-progress-tracker/database/student_progress_corrupted.db
+
+student-progress-tracker/database/*.db
